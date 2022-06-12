@@ -26,8 +26,16 @@ Three ratings (rating, food rating, and service rating) with values of 0, 1, or 
 
 ## Exploratory Data Analysis(EDA)
 
-### Relation of Restaurant Rating with various factors (Price, Parking etc...)
+## Relation of Restaurant Rating with various factors (Price, Parking etc...)
 
 <img width="367" alt="Screenshot 2022-06-07 at 1 25 09 PM" src="https://user-images.githubusercontent.com/34760210/172327046-11a72b02-67cd-4c0f-ae19-b8a63dc0193d.png">
+Conclusion: Ratings of restaurant having lower price range are usually lower than those having a meduim/high priced menu
+
+***
 <img width="478" alt="Screenshot 2022-06-07 at 1 25 29 PM" src="https://user-images.githubusercontent.com/34760210/172327107-4055e35b-8ca7-4c49-9f2e-b63eab6dbb86.png">
+Conclusion: Restaurants having a vellet parking options have much higher rating than the restaurants not having one.
+
+***
+
+
 
