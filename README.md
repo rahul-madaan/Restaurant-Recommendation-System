@@ -17,6 +17,7 @@ Restaurants
 Consumers
 - usercuisine.csv
 - userpayment.csv
+
 - userprofile.csv
 
 Ratings
@@ -37,5 +38,8 @@ Conclusion: Restaurants having a vellet parking options have much higher rating 
 
 ***
 
+<img width="387" alt="Screenshot 2022-06-13 at 12 30 01 PM" src="https://user-images.githubusercontent.com/34760210/173297482-eff23a4c-8a0e-4a5c-8b7d-04fa1133342a.png">
+Conclusion: Restaurants where smoking is allowed have higher overall ratings compared to restaurants not allowing smoking
 
+***
 
