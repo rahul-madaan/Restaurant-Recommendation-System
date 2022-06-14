@@ -47,3 +47,8 @@ Conclusion: Restaurants having a full bar have better overall ratings than resta
 
 ***
 
+<img width="369" alt="Screenshot 2022-06-15 at 12 10 43 AM" src="https://user-images.githubusercontent.com/34760210/173664754-feedd847-44b4-4948-88cf-2898e80cefb4.png">
+Conclusion: Restaurants providing various services including internet had better ratings than restaurats which provided just internet or no services
+
+***
+
