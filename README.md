@@ -42,4 +42,8 @@ Conclusion: Restaurants having a vellet parking options have much higher rating 
 Conclusion: Restaurants where smoking is allowed have higher overall ratings compared to restaurants not allowing smoking
 
 ***
+<img width="410" alt="Screenshot 2022-06-14 at 8 18 05 AM" src="https://user-images.githubusercontent.com/34760210/173482863-ba44f24a-37a4-4a52-a930-c2ac73884c58.png">
+Conclusion: Restaurants having a full bar have better overall ratings than restaurants not serving alcohol or only serving wine and beer
+
+***
 
