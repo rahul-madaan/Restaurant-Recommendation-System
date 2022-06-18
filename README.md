@@ -55,4 +55,4 @@ Conclusion: Restaurants providing various services including internet had better
 <img width="367" alt="Screenshot 2022-06-18 at 4 46 52 PM" src="https://user-images.githubusercontent.com/34760210/174435267-45ab7068-475b-4819-a1db-db29d9e46d0f.png">
 Conclusion: Overall ratings of all restaurants having a formal dress code are much higher than those having informal or no dress code.
 
-
+***
