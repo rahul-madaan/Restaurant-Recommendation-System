@@ -56,3 +56,4 @@ Conclusion: Restaurants providing various services including internet had better
 Conclusion: Overall ratings of all restaurants having a formal dress code are much higher than those having informal or no dress code.
 
 ***
+
