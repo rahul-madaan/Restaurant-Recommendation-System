@@ -57,3 +57,5 @@ Conclusion: Overall ratings of all restaurants having a formal dress code are mu
 
 ***
 
+<img width="380" alt="Screenshot 2022-06-23 at 3 20 10 PM" src="https://user-images.githubusercontent.com/34760210/175271048-0fe42ee7-2196-4ede-8f0d-f80ea83fab01.png">
+Conclusions: Restaurants which had closed eating area had higher overall rating than the restaurants which had open eating area.
