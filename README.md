@@ -67,3 +67,5 @@ Conclusions: Restaurants which had closed eating area had higher overall rating 
 <img width="388" alt="Screenshot 2022-06-23 at 3 38 10 PM" src="https://user-images.githubusercontent.com/34760210/175274889-5e945b81-ebf6-49b9-a098-f518165fb92b.png">
 Max accuracy at K=5
 
+## Hyper-parameter tuning of various models
+
