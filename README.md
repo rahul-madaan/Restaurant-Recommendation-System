@@ -68,6 +68,7 @@ Conclusions: Restaurants which had closed eating area had higher overall rating 
 Max accuracy at K=5
 
 ## Hyper-parameter tuning of various models
+
 ### Accuracy change on changing n_estimators in XG-Boost Classifier Model
 <img width="1014" alt="Screenshot 2022-06-26 at 12 02 11 AM" src="https://user-images.githubusercontent.com/34760210/175786228-505a4e92-6cee-40ae-80f6-1f6fa1bdcd12.png">
 
