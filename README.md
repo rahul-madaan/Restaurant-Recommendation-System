@@ -76,3 +76,6 @@ Max accuracy at K=5
 
 ### Accuracy of decision tree classifier on changing tree depth
 <img width="1016" alt="Screenshot 2022-06-27 at 12 00 04 AM" src="https://user-images.githubusercontent.com/34760210/175828882-27cd928a-8c85-4579-a536-cd17949fe079.png">
+### Accuracy change on changing min_samples_leaf of decision tree classifier
+<img width="1013" alt="Screenshot 2022-06-28 at 7 50 29 AM" src="https://user-images.githubusercontent.com/34760210/176077557-500a3764-b930-464e-83bc-c39603608a58.png">
+
